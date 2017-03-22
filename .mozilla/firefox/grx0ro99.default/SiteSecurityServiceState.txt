@@ -1,0 +1,6 @@
+self-repair.mozilla.org:HPKP	2	17247	1490190224543,1,0,WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18=r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E=YLh1dUR9y6Kja30RrAn7JKnbQG/uEtLMkBgFF2Fuihg=sRHdihwgkaib1P1gxX8HFszlD+7/gTfNvuAybgLPNis=
+self-repair.mozilla.org:HSTS	1	17246	1521639824537,1,1
+normandy-cloudfront.cdn.mozilla.net:HPKP	1	17246	1490190225362,1,0,WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18=r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E=YLh1dUR9y6Kja30RrAn7JKnbQG/uEtLMkBgFF2Fuihg=sRHdihwgkaib1P1gxX8HFszlD+7/gTfNvuAybgLPNis=
+aus5.mozilla.org:HSTS	0	17245	1521548452417,1,0
+normandy-cloudfront.cdn.mozilla.net:HSTS	0	17245	1521577078265,1,1
+www.baidu.com:HSTS	2	17247	1490363406380,1,0

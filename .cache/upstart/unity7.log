@@ -1,0 +1,10 @@
+ERROR 2017-03-22 04:14:28 unity.settings UnitySettings.cpp:318 Invalid monitor index: -1. Returning index 0 monitor instead.
+WARN  2017-03-22 05:10:36 unity <unknown>:0 Failed to fetch xid: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/44040265
+WARN  2017-03-22 05:10:37 unity <unknown>:0 Failed to fetch type: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/44040265
+WARN  2017-03-22 05:10:37 unity <unknown>:0 Failed to fetch monitor: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/44040265
+WARN  2017-03-22 05:10:37 unity <unknown>:0 Failed to fetch maximized state: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/44040265
+WARN  2017-03-22 05:10:37 unity <unknown>:0 Failed to fetch xid: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/44040265
+WARN  2017-03-22 05:10:37 unity <unknown>:0 Failed to fetch xid: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/44040265
+WARN  2017-03-22 05:10:37 unity <unknown>:0 Failed to fetch xid: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/44040265
+WARN  2017-03-22 05:10:37 unity <unknown>:0 Failed to fetch xid: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface 'org.ayatana.bamf.window' on object at path /org/ayatana/bamf/window/44040265
+1490190579616	addons.repository	WARN	Search failed when repopulating cache
